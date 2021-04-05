@@ -14,6 +14,6 @@ La letania contra el miedo - Bene Gesserit.
 About me
 
 * Love adventures and music.
-* Currently: learning coding in [HackYourFuture](https://www.hackyourfuture.be).
+* Currently: learning Web Developing in [HackYourFuture](https://www.hackyourfuture.be).
 * Outdoor sports? Yes, please ! I'm in! ;)
 
