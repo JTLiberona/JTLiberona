@@ -12,9 +12,9 @@ Dune - Frank Herbert.
 
 **CHALLENGE FOR 2021**
 
-[] HTML5
-[] CSS3
-[] JAVASCRIPT
-[] SQL
+- [x] HTML5
+- [x] CSS3
+- [ ] JAVASCRIPT
+- [ ] SQL
 
 
