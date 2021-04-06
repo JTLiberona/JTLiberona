@@ -1,5 +1,4 @@
-# José Tomás
-## Liberona G.
+# José Tomás Liberona G.
 
 * “El misterio de la vida no es un problema que hay que resolver, sino una realidad que hay que experimentar.” *
 
