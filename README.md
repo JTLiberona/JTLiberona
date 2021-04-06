@@ -1,19 +1,16 @@
 # José Tomás
 ## Liberona G.
 
-* “No conoceréis al miedo. El miedo mata la mente.
-El miedo es la pequeña muerte que conduce a la destrucción total.
-Afrontaré mi miedo.
-Permitiré que pase sobre mi y a través de mi. Y cuando haya pasado, giraré mi ojo interior para escrutar su camino.
-Allá donde haya pasado el miedo ya no habrá nada. Sólo estaré yo.” *
+* “El misterio de la vida no es un problema que hay que resolver, sino una realidad que hay que experimentar.” *
 
-La letania contra el miedo - Bene Gesserit.
+Dune - Frank Herbert.
 ---
-
 
 About me
 
-* Love adventures and music.
-* Currently: learning Web Developing in [HackYourFuture](https://www.hackyourfuture.be).
-* Outdoor sports? Yes, please ! I'm in! ;)
+* CHL.
+* Learning Web Development in [HackYourFuture](https://www.hackyourfuture.be).
+* Class 15.
+* Always learning, 
+* Coffe? Yes, please.
 
