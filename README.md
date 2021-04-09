@@ -12,7 +12,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JTLiberona&show_icons=true&theme=merko)
 
 
-
 ---
 _“El misterio de la vida no es un problema que hay que resolver, sino una realidad que hay que experimentar.”_
 
