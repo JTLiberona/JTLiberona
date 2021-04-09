@@ -17,4 +17,5 @@ Dune - Frank Herbert.
 - [ ] JAVASCRIPT
 - [ ] SQL
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JTLiberona&show_icons=true&theme=merko)
 
