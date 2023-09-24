@@ -5,10 +5,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Beginner-lightgrey)
 
-:earth_americas: From [Villa Alemana, Chile](https://en.wikipedia.org/wiki/Chile) :cl: .
+:earth_americas: From [Chile](https://en.wikipedia.org/wiki/Chile) :cl: .
 
-:zap: Studying Web Development in [HackYourFuture](https://www.hackyourfuture.be).
-
+:zap: I was studying Web Development at [HackYourFuture](https://www.hackyourfuture.be), now I'm studying by my own :)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JTLiberona&show_icons=true&theme=merko)
 
 
